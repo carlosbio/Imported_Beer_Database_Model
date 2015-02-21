@@ -1,0 +1,11 @@
+Boas Dream Team,
+isto são prototipos apenas ainda, não pensei em nomes de menus. 
+Acho que seria importante tentarmos fazer uma primeira estrutura relacional que nos ajudaria na criaçao de Menus e ambientes.
+O que acham?
+
+- Como vou andar a pesquisar durante a tarde acerca das caracteristicas para cada cerveja, posso começar por esboçar a estrutura relacional, o que acho que seja uma boa ideia, pois além de nos ajudar agora, também já nos adianta trabalho para o Checkpoint 1! ;) (Carlos)
+
+
+Pelo que vi nos outros trabalhos do ano passado, temos de fazer meia dúzia de protótipos que ilustrem basicamente o que a aplicação deve fazer, sem entrar em grandes pormenores. 
+
+Retirei o rebordo de algumas imagens. Visto que tenho estado a fazer a especificação inicial, tenho algumas ideias para colocar nos protótipos. Vou aproveitar a imagem base e colcar os campos usando o Balsamiq. (Mário)

@@ -1,0 +1,273 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="840" measuredH="620" mockupW="780" mockupH="600">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="60" y="20" w="780" h="600" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>https%3A//gesbeer.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::SearchBox" x="449" y="159" w="358" h="-1" measuredW="120" measuredH="25" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="816" y="184" w="-1" h="402" measuredW="16" measuredH="100" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::LinkBar" x="66" y="162" w="-1" h="-1" measuredW="346" measuredH="19" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027263</color>
+        <text>Home%20%20%20%20%20%2C%20%20%20%20%20%20Products%20%20%20%20%20%2C%20%20%20%20%20%20Promo%E7%F5es%20%20%20%20%2C%20%20%20%20%20%20Blog</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Title" x="60" y="98" w="352" h="-1" measuredW="184" measuredH="43" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>GESBEER</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::SubTitle" x="442" y="105" w="-1" h="-1" measuredW="283" measuredH="16" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>Ol%E1%20Bruno%20Matias%2C%20Benvindo%20ao%20GESBEER%20Online</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Image" x="754" y="100" w="47" h="38" measuredW="249" measuredH="202" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Jo%25C3%25A3o/Desktop/carrinho.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Image" x="81" y="254" w="116" h="105" measuredW="220" measuredH="229" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Jo%25C3%25A3o/Desktop/beer%25201.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Image" x="228" y="254" w="116" h="105" measuredW="231" measuredH="219" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Jo%25C3%25A3o/Desktop/beer2.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Image" x="377" y="254" w="116" h="105" measuredW="1108" measuredH="1600" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Jo%25C3%25A3o/Desktop/beer3.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::SubTitle" x="81" y="367" w="116" h="-1" measuredW="86" measuredH="17" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>14</size>
+        <text>Pilsen%20%205%2C00%u20AC</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::SubTitle" x="218" y="365" w="134" h="-1" measuredW="121" measuredH="17" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>14</size>
+        <text>Super-%20Bock%200%2C80%u20AC</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::SubTitle" x="367" y="362" w="136" h="-1" measuredW="134" measuredH="17" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>14</size>
+        <text>London%20Porter%209%2C80%u20AC</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::SubTitle" x="81" y="544" w="137" h="-1" measuredW="129" measuredH="17" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>14</size>
+        <text>Golden%20Pride%20%207%2C30%u20AC</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::SubTitle" x="352" y="543" w="165" h="-1" measuredW="162" measuredH="17" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>14</size>
+        <text>ESB%20London%200.33L%209%2C20%u20AC</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::SubTitle" x="517" y="543" w="158" h="-1" measuredW="107" measuredH="17" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>14</size>
+        <text>ESB%201%20L%20%2023%2C20%u20AC</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::SubTitle" x="674" y="544" w="116" h="-1" measuredW="91" measuredH="17" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>14</size>
+        <text>London%206%2C00%u20AC</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Image" x="228" y="432" w="116" h="105" measuredW="1108" measuredH="1600" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Jo%25C3%25A3o/Desktop/beer3.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Image" x="377" y="432" w="116" h="105" measuredW="231" measuredH="219" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Jo%25C3%25A3o/Desktop/beer2.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Image" x="525" y="432" w="116" h="105" measuredW="220" measuredH="229" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Jo%25C3%25A3o/Desktop/beer%25201.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Image" x="674" y="432" w="116" h="105" measuredW="220" measuredH="229" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Jo%25C3%25A3o/Desktop/beer%25201.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Image" x="81" y="432" w="116" h="105" measuredW="231" measuredH="219" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Jo%25C3%25A3o/Desktop/beer2.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Image" x="674" y="254" w="116" h="105" measuredW="231" measuredH="219" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Jo%25C3%25A3o/Desktop/beer2.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Image" x="525" y="254" w="116" h="105" measuredW="231" measuredH="219" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Jo%25C3%25A3o/Desktop/beer2.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::SubTitle" x="525" y="365" w="116" h="-1" measuredW="101" measuredH="17" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>14</size>
+        <text>Bock%201L%20%204%2C70%u20AC%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::SubTitle" x="668" y="365" w="116" h="-1" measuredW="82" measuredH="17" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>14</size>
+        <text>IPA%20%20%2022%2C50%u20AC</text>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Image" x="154" y="382" w="27" h="21" measuredW="249" measuredH="202" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Jo%25C3%25A3o/Desktop/carrinho.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::SubTitle" x="101" y="386" w="53" h="-1" measuredW="50" measuredH="13" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>10</size>
+        <text>ADD%20CART</text>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Image" x="298" y="382" w="27" h="21" measuredW="249" measuredH="202" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Jo%25C3%25A3o/Desktop/carrinho.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::SubTitle" x="245" y="386" w="53" h="-1" measuredW="50" measuredH="13" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>10</size>
+        <text>ADD%20CART</text>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::Image" x="447" y="382" w="27" h="21" measuredW="249" measuredH="202" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Jo%25C3%25A3o/Desktop/carrinho.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::SubTitle" x="394" y="386" w="53" h="-1" measuredW="50" measuredH="13" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>10</size>
+        <text>ADD%20CART</text>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Image" x="596" y="382" w="27" h="21" measuredW="249" measuredH="202" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Jo%25C3%25A3o/Desktop/carrinho.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::SubTitle" x="543" y="386" w="53" h="-1" measuredW="50" measuredH="13" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>10</size>
+        <text>ADD%20CART</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Image" x="739" y="382" w="27" h="21" measuredW="249" measuredH="202" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Jo%25C3%25A3o/Desktop/carrinho.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::SubTitle" x="686" y="386" w="53" h="-1" measuredW="50" measuredH="13" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>10</size>
+        <text>ADD%20CART</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Image" x="154" y="560" w="27" h="21" measuredW="249" measuredH="202" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Jo%25C3%25A3o/Desktop/carrinho.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::SubTitle" x="101" y="564" w="53" h="-1" measuredW="50" measuredH="13" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>10</size>
+        <text>ADD%20CART</text>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Image" x="298" y="560" w="27" h="21" measuredW="249" measuredH="202" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Jo%25C3%25A3o/Desktop/carrinho.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::SubTitle" x="245" y="564" w="53" h="-1" measuredW="50" measuredH="13" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>10</size>
+        <text>ADD%20CART</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Image" x="447" y="560" w="27" h="21" measuredW="249" measuredH="202" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Jo%25C3%25A3o/Desktop/carrinho.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::SubTitle" x="394" y="564" w="53" h="-1" measuredW="50" measuredH="13" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>10</size>
+        <text>ADD%20CART</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::Image" x="739" y="560" w="27" h="21" measuredW="249" measuredH="202" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Jo%25C3%25A3o/Desktop/carrinho.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::SubTitle" x="686" y="564" w="53" h="-1" measuredW="50" measuredH="13" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>10</size>
+        <text>ADD%20CART</text>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::SubTitle" x="228" y="543" w="116" h="-1" measuredW="114" measuredH="17" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>14</size>
+        <text>IPA%20reserva%20%20%2080%u20AC</text>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Image" x="596" y="560" w="27" h="21" measuredW="249" measuredH="202" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Jo%25C3%25A3o/Desktop/carrinho.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::SubTitle" x="543" y="564" w="53" h="-1" measuredW="50" measuredH="13" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>10</size>
+        <text>ADD%20CART</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
